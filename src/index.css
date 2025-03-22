@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body {
+    background-image: url("https://img.freepik.com/free-vector/acrylic-paint-pour-background-vector_53876-63126.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+button:hover {
+    transform: scale(1.1); 
+}
